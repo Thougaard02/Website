@@ -1,0 +1,47 @@
+﻿body {
+    background-color: #1c273a;
+    color: white;
+}
+
+#image {
+    background-image: url("/Image/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.movie {
+    text-align: center;
+    white-space: nowrap;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+
+.Movie-image{
+    width: 100%;
+}
+
+.Movie-title {
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+}
+.Movie-name{
+
+}
+
+.Movie-button {
+    background-color: #2d7dfe;
+    color: white;
+    border-radius: 5px;
+    font-size: 24px;
+    font-family: sans-serif;
+    border: 0;
+    width: calc(100% - 40px);
+    margin: 5px 0px 30px 20px;
+    padding: 5px;
+}
+i{
+    padding-left: 20px;
+}

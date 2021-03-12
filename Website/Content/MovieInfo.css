@@ -1,0 +1,109 @@
+﻿body {
+    /*background-color: black;*/
+    line-height: 1.5;
+}
+.node-content {
+
+}
+.content {
+    display: flex;
+    width: 100%;
+}
+.content left-column{
+    width: calc(100% / 3);
+
+}
+.content right-column {
+    width: calc((100% / 3) * 2);
+}
+
+/*Left column*/
+.left-column {
+    margin-top: 50px;
+}
+.image-movie {
+    display: block;
+    border-radius: 5px;
+    display: block;
+    height: auto;
+    box-shadow: 0 0 10px 0;
+}
+
+
+.movie-trailer{
+    margin-top: 35px;
+}
+.video{
+    position:relative;
+    height:100%;
+}
+/*Right column*/
+.right-column {
+    margin: 20px;
+}
+
+.movie-name{
+    font-family: sans-serif;
+    font-size: 54px;
+    margin: 25px 0 30px;
+}
+.movie-info {
+    border: 1px solid rgba(181,204,245,0.1);
+    border-radius: 5px;
+    padding: 45px 40px;
+    margin-bottom: 35px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.info{
+
+}
+.row1{
+    /*Must have display:flex to wrap*/
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+}
+
+.field-name{
+    margin-bottom:30px;
+    width: 50%;
+}
+
+.field-label {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #d3dae2;
+}
+
+.field-item{
+
+}
+
+.movie-censur{
+
+}
+
+.censur{
+
+}
+
+.movie-genre{
+
+}
+
+.actor{
+
+}
+
+.body-info{
+
+}
+.body-text{
+    margin:0;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    overflow:hidden;
+}

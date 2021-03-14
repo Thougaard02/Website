@@ -2,7 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-
     <div class="jumbotron" id="image">
         <h1>Giv en Biograftur for 2</h1>
         <p class="lead">Og støt din lokale biograf</p>

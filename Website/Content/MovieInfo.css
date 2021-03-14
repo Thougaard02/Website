@@ -77,33 +77,66 @@
     color: #d3dae2;
 }
 
-.field-item{
 
-}
-
-.movie-censur{
-
-}
-
-.censur{
-
-}
-
-.movie-genre{
-
-}
-
-.actor{
-
-}
-
-.body-info{
-
-}
 .body-text{
     margin:0;
     margin-bottom: 20px;
     font-family: sans-serif;
     font-size: 20px;
     overflow:hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.field-item {
+}
+
+.movie-censur {
+}
+
+.censur {
+}
+
+.movie-genre {
+}
+
+.actor {
+}
+
+.body-info {
 }
